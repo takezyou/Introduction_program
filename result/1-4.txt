@@ -1,0 +1,6 @@
+Input ax, ay, az 
+1 0 1
+Input bx, by, bz 
+1 1 0
+内積: 1 
+外積: (-1, 1, 1)
