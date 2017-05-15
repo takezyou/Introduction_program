@@ -1,0 +1,4 @@
+Input delta x. 
+ delta x = 0.01
+ df/dx(x=1) = 3. delta x = 0.010000 
+Numerical value of df/dx =  3.030100 

@@ -1,0 +1,5 @@
+Input delta x. 
+ delta x = 0.01
+ df/dx(x=1) = 3. delta x = 0.010000 
+Numerical value of df/dx =  3.000100 
+Relative error |3.0 - df/dx| / 3.0 = 0.000033 
