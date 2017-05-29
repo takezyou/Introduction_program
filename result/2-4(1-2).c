@@ -5,13 +5,7 @@
 
 int main(void) { 
     int i;
-    double pi1, pi2, pi3, a, b, c, fact1, fact2;
-    pi3 = 1.0;
-    a = 1.0;
-    b = 1.0;
-    c = 1.0;
-    fact1 = 1.0;
-    fact2 = 1.0;
+    double pi1, pi2;
 
     printf("--------\n");
     for(i = 0; i <= N; i++) {
