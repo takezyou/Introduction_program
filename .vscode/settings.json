@@ -3,6 +3,23 @@
         "algorithm": "cpp",
         "cmath": "cpp",
         "complex": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "and.hpp": "c",
+        "image_format.hpp": "c",
+        "concept_check.hpp": "c",
+        "misc_concept.hpp": "c",
+        "meta.h": "c",
+        "jacobisvd.h": "c",
+        "queue": "c",
+        "exception.hpp": "c",
+        "gil_concept.hpp": "c",
+        "graph_concepts.hpp": "c",
+        "select_by_size.hpp": "c",
+        "meta_utils.hpp": "c",
+        "type_traits.hpp": "c",
+        "property_map.hpp": "c",
+        "alignment_of.hpp": "c",
+        "type_with_alignment.hpp": "c",
+        "jacobi.h": "c"
     }
 }
