@@ -1,0 +1,29 @@
+Solve a quadratic equation ax^2 + bx + c = 0
+Input a = 0
+Input b = 0
+Input c = 0
+Identity.
+
+Solve a quadratic equation ax^2 + bx + c = 0
+Input a = 0
+Input b = 0
+Input c = 21
+Undetermined.
+
+Solve a quadratic equation ax^2 + bx + c = 0
+Input a = 0
+Input b = 3 
+Input c = 12
+Soution x = -4.000000e+00
+
+Solve a quadratic equation ax^2 + bx + c = 0
+Input a = 21
+Input b = 32
+Input c = 0
+Solution x = -3.123810e+01 and -3.276190e+01
+
+Solve a quadratic equation ax^2 + bx + c = 0
+Input a = 12
+Input b = 21
+Input c = 32
+No real roots.
