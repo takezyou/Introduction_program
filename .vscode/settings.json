@@ -20,6 +20,7 @@
         "property_map.hpp": "c",
         "alignment_of.hpp": "c",
         "type_with_alignment.hpp": "c",
-        "jacobi.h": "c"
+        "jacobi.h": "c",
+        "stdio.h": "c"
     }
 }

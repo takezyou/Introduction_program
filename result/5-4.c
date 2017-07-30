@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-int fnc(int, int);
+int fnc(int n);
 
 int main (void){
     int n;
     printf("Factorial of n=");
     scanf("%d", &n);
-    printf("n != %d\n", fnc(n));
+    printf("n!!= %d\n", fnc(n));
 }
 
 int fnc(int n){

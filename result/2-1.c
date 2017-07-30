@@ -6,16 +6,16 @@ int main(void){
 	printf("n:");
 	scanf("%d",&n);
 
-	sum1 = 1;
-	sum2 = 1;
+	sum1 = 0;
+	sum2 = 0;
 
-	for(i=0; i<n; i++){
+	for(i=1; i<n+1; i++){
+		sum1 =  sum1 + i;
 		printf("i = %3d, sum1 = %3d\n", i, sum1);
-		sum1 = sum1 + 1;
 	}
 
 	printf("nizyou\n");
-	for(i=0; i<n; i++){
+	for(i=1; i<n+1; i++){
 		sum2 += i * i;
 		printf("i = %3d, sum2 = %3d\n", i, sum2);
 	}

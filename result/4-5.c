@@ -12,11 +12,11 @@ int main (void) {
     printf("Input c = ");
     scanf("%lf", &c);
 
-    if (x <= sqrt(2) && x > pow(-3,2.2)){
+    if (x <= sqrt(2) && x > -pow(3,2.2)){
         printf("sqrt2以下かつ-3^2.2より大きい実数\n");
     }
 
-    else if (a < 1 && b < 1 && c < 1){
+    if (a < 1 && b < 1 && c < 1){
         printf("全て1未満\n");
     }
 
